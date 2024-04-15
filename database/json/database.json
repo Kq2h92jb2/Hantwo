@@ -1,0 +1,106 @@
+{
+  "users": {
+    "6285290968412@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    },
+    "6283146845711@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    },
+    "6281911991957@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    },
+    "6288233739822@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    },
+    "6287839000096@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    },
+    "6285219443810@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    },
+    "6282142661443@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    },
+    "62831265874952@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "100"
+    }
+  },
+  "group": {},
+  "chats": {
+    "6285290968412@s.whatsapp.net": {
+      "antilink": false,
+      "antilink2": false,
+      "promosi": false,
+      "promosi2": false,
+      "toxic": false
+    },
+    "120363265827343106@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "promosi": false,
+      "promosi2": false,
+      "toxic": false
+    },
+    "120363198350273107@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "promosi": false,
+      "promosi2": false,
+      "toxic": false
+    },
+    "6283146845711@s.whatsapp.net": {
+      "antilink": false,
+      "antilink2": false,
+      "promosi": false,
+      "promosi2": false,
+      "toxic": false
+    },
+    "120363029954305341@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "promosi": false,
+      "promosi2": false,
+      "toxic": false
+    },
+    "120363252255392469@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "promosi": false,
+      "promosi2": false,
+      "toxic": false
+    }
+  },
+  "database": {},
+  "settings": {},
+  "donate": {},
+  "others": {},
+  "sticker": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  }
+}
