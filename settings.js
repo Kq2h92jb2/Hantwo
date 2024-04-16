@@ -20,7 +20,7 @@ global.prefa = ['','!','.',',','🐤','🗿'] // JANGAN DI UBAH KALAU GAK MAU ER
 
 global.v = 'Hantwo Bot' // GANTI AJA
 global.wm = 'Hantwo | Bot' // GANTI AJA
-global.packname = ""
+global.packname = "-"
 global.author = "Hana" // GANTI AJA
 global.author2 = "Khoi" // GANTI SAJA
 global.footer = 'Hantwo Bot' // GANTI AJA
